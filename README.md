@@ -1,2 +1,3 @@
 # clase3agosto
 aplicaci√≥n de la clase
+Nicol·s Lozano
