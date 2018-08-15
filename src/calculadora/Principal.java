@@ -20,7 +20,7 @@ public class Principal {
         miCalculadora=new CalculadoraAritmética();
         CalculadoraTrigonométrica miCalculadora2=new CalculadoraTrigonométrica ();
         
-        System.out.println("Seleccione operación:\n1.Sumar\n2.Restar\n3.Multiplicar\n4.Dividir\n5.Residuar\n6.Seno\n7.Coseno\n8.Tangente\n9.Cotangente\n10.Secante\n11.Cosecante");
+        System.out.println("Seleccione operación:\n1.Sumar\n2.Restar\n3.Multiplicar\n4.Dividir\n5.Residuar\n6.Seno\n7.Coseno\n8.Tangente\n9.Cotangente\n10.Secante\n11.Cosecante.");
         int opción=7;
         switch (opción){
             case 1:{
